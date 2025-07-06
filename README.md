@@ -10,15 +10,12 @@ A simple and responsive weather application built using **HTML**, **CSS**, and *
 - 📱 Responsive design for all screen sizes
 ## 📁 Project Structure
 weather-app/
- # Main HTML file
+
 ├── index.html
- # CSS styling
 ├── style.css
-# JavaScript logic for fetching weather
 ├── index.js 
 
 ## 🔧 Setup Instructions
-
 1. **Clone this repository**
    ```bash
    git clone https://github.com/your-username/weather-app.git
